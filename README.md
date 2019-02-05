@@ -5,6 +5,7 @@ TODO
   a. eslint
   b. prettier
   c. babel config - for lint
+  d. Parcel
 3. layout with transition
 4. BG with SVG
 5. TP load Animation
